@@ -40,22 +40,24 @@ int CountLessThan3Elements(string[] array)
 }
 string[] ArrayLess3Element(string[] array, int count)
 {
-    
-    string[] counter = new string[count];
+
+    string[] arrayLess3Element = new string[count];
     for (int i = 0, j = 0; i < array.Length; i++)
     {
         if (array[i].Length <= 3)
         {
-            counter[j] = array[i];
+            arrayLess3Element[j] = array[i];
             j++;
         }
 
+
+
     }
-    return counter;
+    return arrayLess3Element;
 }
 
 string[] array = CreateArray(4);
 PrintArray(array);
 int count = CountLessThan3Elements(array);
-string[] counter = ArrayLess3Element(array, count);
-PrintArray(counter);
+string[] arrayLess3Element = ArrayLess3Element(array, count);
+PrintArray(arrayLess3Element);
