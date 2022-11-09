@@ -1,0 +1,15 @@
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/bin/Debug/net6.0/TaskExam
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/bin/Debug/net6.0/TaskExam.deps.json
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/bin/Debug/net6.0/TaskExam.runtimeconfig.json
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/bin/Debug/net6.0/TaskExam.dll
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/bin/Debug/net6.0/TaskExam.pdb
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/TaskExam.csproj.AssemblyReference.cache
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/TaskExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/TaskExam.AssemblyInfoInputs.cache
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/TaskExam.AssemblyInfo.cs
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/TaskExam.csproj.CoreCompileInputs.cache
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/TaskExam.dll
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/refint/TaskExam.dll
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/TaskExam.pdb
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/TaskExam.genruntimeconfig.cache
+/Users/elenabespalova/Desktop/ExamWork/TaskExam/obj/Debug/net6.0/ref/TaskExam.dll
